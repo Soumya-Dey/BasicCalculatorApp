@@ -5,5 +5,5 @@ This is a very basic and simple calculator with basic operations like ADD, SUBST
 * Min Android SDK v15
 * Target Android SDK v28
 
-## **Instruction**
+## **Instructions**
 * for running the app on your device just download the **.apk** file from the list.
